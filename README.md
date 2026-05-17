@@ -4,7 +4,11 @@
 
 AI-assisted business card digitization, contact organization, CRM synchronization, and cloud backup workflow.
 
-AIを活用した名刺データ化、連絡先整理、CRM同期、クラウドバックアップを支援する業務ワークフローです。
+AIを活用した名刺データ化、連絡先整理、CRM同期、クラウドバックアップを支援する業務ワークフローです。  
+弊社ではあらかじめ活用していたOpenAI、HubSpot、OneDriveなどのサービスを連携させ、名刺情報を実務で活用しやすい形に整理することを目的としています。  
+小規模企業でも取り入れやすい運用ではないかと考えています。
+
+このアプリのために追加した機能は、OpenAI Platform API（従量課金）のみです。主にOCR/画像解析および情報抽出に活用しています。
 
 ---
 
