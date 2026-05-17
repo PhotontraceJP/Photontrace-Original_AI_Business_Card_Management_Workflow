@@ -1,5 +1,5 @@
-# AI Business Card Workflow  
-# AI名刺管理ワークフロー
+# Photontrace Original AI Business Card Management Workflow
+# Photontraceオリジナル AI名刺管理ワークフロー
 <img width="800" height="400" alt="AI-assisted contact workflow　w800" src="https://github.com/user-attachments/assets/06b37e80-55fc-46c6-8761-4b066f6fbdb1" />
 
 AI-assisted business card digitization, contact organization, CRM synchronization, and cloud backup workflow.
@@ -12,11 +12,11 @@ AIを活用した名刺データ化、連絡先整理、CRM同期、クラウド
 
 This project explores a practical workflow for digitizing and organizing business card information using AI-assisted OCR, automatic classification, CRM integration, and cloud-based backup systems.
 
-本プロジェクトは、AI OCR、AI分類、CRM連携、クラウドバックアップを組み合わせた、実務向け名刺管理ワークフローを検討・開発するものです。
+このプロジェクトは、AI OCR、AI分類、CRM連携、クラウドバックアップを組み合わせた、実務向け名刺管理ワークフローを開発・拡張するものです。
 
 The workflow was designed to reduce manual input work while improving contact organization and long-term accessibility of business card information.
 
-本ワークフローは、名刺情報の手入力作業を削減しながら、連絡先情報の整理性と長期的な管理性を向上させることを目的としています。
+ワークフローは、名刺情報の手入力作業を削減し、連絡先情報の整理と長期的な管理向上を目的としています。
 
 ---
 
@@ -200,9 +200,9 @@ Future development directions include:
 
 ## Notes / 備考
 
-This repository introduces workflow concepts and integration approaches related to AI-assisted business card management and CRM workflows.
+This repository introduces the concept, design, and operational approach of an AI-powered business card management and CRM integration workflow, aimed at improving sales and marketing operations, reducing internal workload, and enhancing technical development capabilities through practical AI utilization
 
-本リポジトリは、AI名刺管理およびCRM連携ワークフローに関する構想・設計・運用アプローチを紹介することを目的としています。
+このリポジトリは、AI名刺管理およびCRM連携ワークフローを通じ、営業・マーケティング業務の運用効率化、社内業務の省力化、ならびにAI活用による技術開発レベルの向上を目指す構想・設計・運用アプローチを紹介するものです。
 
 Some implementation details and internal tools are maintained privately.
 
